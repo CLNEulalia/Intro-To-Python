@@ -230,10 +230,10 @@ mapped to the parameter passed to `.format()` at said index.
 > Is there a similar way to format strings in JavaScript?
 
 ```python
-class_number = 22
+class_number = 1130
 
-"I am teaching WDI {}.".format(class_number)
-# => "I am teaching WDI 22."
+"I am teaching SEIR {}.".format(class_number)
+# => "I am teaching SEIR 1130."
 
 person1 = "Lauren"
 person2 = "Frank"
@@ -351,11 +351,7 @@ Here's the recap of the bouncer rules:
 > Bonus: if age is 18 or older, but under 21, output that the person can enter
 > the bar but cannot drink!
 
-## You Do: Data Types Exercises (15 min / 1:00)
 
-Open [Data Types](https://git.generalassemb.ly/sei-921/intro-to-python/blob/master/data-types.py) and work through the prompts.
-
-## Break (10 min / 1:10)
 
 ## Lists & Collections(15 min / 1:30)
 
@@ -482,6 +478,13 @@ numbers.remove(2)
 numbers
 # => [3, 1, 2, 4]
 ```
+
+## You Do: Data Types Exercises (15 min / 1:00)
+
+Open [Data Types](https://git.generalassemb.ly/sei-921/intro-to-python/blob/master/data-types.py) and work through the prompts.
+
+## Break (10 min / 1:10)
+
 
 ## Dictionary
 
