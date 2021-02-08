@@ -98,7 +98,7 @@ Variables in Python are assigned by using a single equals sign (`=`):
 
 ```python
 my_favorite_animal = "flying squirrel"
-# => "flying squirrel"
+print(my_favorite_animal)
 ```
 
 Notice a few other things about the above block of code:
@@ -115,39 +115,6 @@ Notice a few other things about the above block of code:
 While your code will work if you close a line with `;`, common practice is not
 to use them.
 
-## You Do: Data Types (20 min / 0:25)
-
-Start the IPython REPL in your terminal and start working through the prompts
-below.
-
-<details>
-<summary>Why do we have to read all this ourselves?</summary>
-
-This is part of the gradual release of responsibility that we have discussed and
-that you have experienced during your projects, this is the part where you
-become developers and you don't rely on others to teach you. Developers have to
-teach themselves all the time, right now you are doing that in an environment
-where you have support.
-
-While we could re-teach you what numbers, strings, conditionals, etc. are like
-in Python, you know enough about programming languages from your experience with
-JavaScript to pick up on this information pretty quickly on your own. Honestly,
-if we taught it to you, you'd get bored really quickly.
-
-Because of this, the peculiarities of Python will be apparent. These are the
-things you need to be aware of in the next few classes.
-
-I will come by and check your understanding one-on-one and ask you questions
-
-</details>
-
-<details>
-<summary>Do I have to do the exercises? Can't I just read the code?</summary>
-
-Just reading the code wont lead to learning it, so type everything out into the
-IPython REPL!
-
-</details>
 
 ### Everything Is An Object!
 
